@@ -1,0 +1,24 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "Proyecto de practica de JS para Open Bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerardoMundo/JS-Open-Bootcamp.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Gerardo Mundo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerardoMundo/JS-Open-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/gerardoMundo/JS-Open-Bootcamp#readme"
+}
