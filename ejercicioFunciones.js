@@ -1,5 +1,3 @@
-const { Error } = require("@mui/icons-material");
-
 const siempreTrue = () => {
     return true;
 };
@@ -11,6 +9,7 @@ const temporizador = () => {
         setTimeout(() => {
             resolve(saludo);
         }, 5000);
+        reject('Error');
     });
 }
 
