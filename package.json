@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gerardoMundo/JS-Open-Bootcamp/issues"
   },
-  "homepage": "https://github.com/gerardoMundo/JS-Open-Bootcamp#readme"
+  "homepage": "https://github.com/gerardoMundo/JS-Open-Bootcamp#readme",
+  "dependencies": {
+    "winston": "^3.8.1"
+  }
 }
