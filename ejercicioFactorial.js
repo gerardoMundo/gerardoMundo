@@ -1,16 +1,17 @@
-let acc = 1;
+let resultado = 1;
 
-for(var i = 1; i<=10; i++) {
-    let resultado = acc *= i;
+for(var i = 1; i<=5; i++) {
+    resultado *= i;
+    console.log(resultado);
 }
 
 while (i<=10) {
     i++;
-    let resultado = acc *= i;
+    resultado *= i;
 }
 
 while (i<=10) {
     i++;
-    let resultado = acc *= i;
+    resultado *= i;
     if(i = 10) break;
 }
